@@ -1,0 +1,4 @@
+# macOS & Windows temp files
+.DS_Store
+.Trashes
+Thumbs.db
